@@ -1,0 +1,20 @@
+<templateSet group="codingTemplates">
+  <template name="syso" value="System.out.println($s$);" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="MAIN" value="public static void main(String args[]){&#10;    $s$&#10;}" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="TRY" value="try {&#10;    $nvm$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="nvm" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
