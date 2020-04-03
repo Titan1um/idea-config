@@ -1,13 +1,5 @@
-tasks/rpcDemo.contexts.zip
-tasks/helloworld.tasks.zip
-tasks/testDemo.tasks.zip
-tasks/testDemo.contexts.zip
-tasks/rpcDemo.tasks.zip
-tasks/helloworld.contexts.zip
-tasks/demo.tasks.zip
-tasks/demo.contexts.zip
-tasks/RPC_Demo.tasks.zip
-tasks/RPC_Demo.contexts.zip
+tasks/
 idea.key
 port.lock
 port
+options/
