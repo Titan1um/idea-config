@@ -4742,6 +4742,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.leex">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.legio">
       <plugins>
         <option name="myPlugins">
